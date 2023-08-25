@@ -6,6 +6,8 @@ ruby "3.2.2"
 gem 'activestorage', '~> 7.0', '>= 7.0.7.2'
 gem "bootsnap", require: false
 gem "devise", "~> 4.9"
+gem "font-awesome-sass", "~> 6.4.2"
+
 gem "image_processing", "~> 1.2"
 gem "importmap-rails"
 gem "jbuilder"
